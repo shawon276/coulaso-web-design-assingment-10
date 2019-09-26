@@ -1,0 +1,404 @@
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    background-color:#2a5da3;
+    float: right;
+    width: 25%;
+    text-align: center;
+   transition: 0.7s ease;
+}
+.hero{
+	padding-top: 15px;
+	background-color: #0a2345;
+}
+.dark-blue-text {
+color: #2a5da3;
+}
+
+.man img{
+	width: 70%;
+}
+.fa.fa-bars{
+	font-size: 30px;
+}
+
+
+.banner{
+	background-color: #0a2345;
+
+}
+.banner-one h2{
+	color: #fff;
+	text-align: center;
+	padding-top: 120px;
+}
+
+.banner-one p{
+	color: #2a5da3;
+	text-align: center;
+	font-size: 15px;
+	padding: 10px 0px;
+}
+
+.btn-cstm{
+	background: transparent;
+	border: 2px solid #2a5da3;
+	padding: 5px 30px;
+	border-radius: 20px;
+	
+	display: block;
+	margin: 40px auto 150px;
+}
+
+.shawon{
+	background: url(../img/img.png) center top;
+	padding: 50px 0px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.max-1 img{
+	width: 70%;
+	display: block;
+	margin: 0 auto;
+border: 1px solid #2a5da3;
+transition: 0.5s ease;
+
+}
+.max-1 img:hover{
+transform: scale(1.1);
+}
+
+.max-2 img:hover{
+transform: scale(1.1);
+}
+
+	
+
+.max-2 img{
+	width: 85%;
+display: block;
+	margin: -50px auto 20px;
+	border: 1px solid #2a5da3;
+transition: 0.5s ease;
+}
+
+
+.omor{
+	background-color: #0a2345;
+	padding: 80px 0px;
+}
+.faruk{
+	position: relative;
+}
+
+.child img{
+position: absolute;
+left: -70px;
+}
+
+
+.said h2{
+	color: #fff;
+	
+	padding-top: 70px;
+}
+
+.said p{
+	color:#66778e;
+	
+	font-size: 13px;
+	padding: 10px 0px;
+}
+
+.btn-cstm-one{
+	background: transparent;
+	border: 2px solid #2a5da3;
+	padding: 5px 30px;
+	border-radius: 20px;
+	margin-bottom: 120px;
+	display: block;
+	
+}
+.mobile{
+	background-color: #0a2345;
+	padding-bottom: 100px;
+}
+.pk h2{
+	color: #fff;
+	text-align: center;
+	padding: 50px 0px 80px;
+}
+.hard{
+	position: relative;
+}
+.prand img{
+	position: absolute;
+	width: 100%;
+	display: block;
+	right: 10px;
+	top: -160px;
+	transition: 0.7s ease;
+
+}
+
+.prand img:hover{
+	transform: scale(1.1);
+}
+
+
+.title-one img{
+	width: 20%;
+}
+
+.title-one h4{
+	color: #fff;
+	font-size: 18px;
+	margin: 20px 0px 10px;
+}
+
+.title-one h6{
+color:#66778e;
+	font-size: 12px;
+	margin-bottom: 70px;
+	
+}
+
+.box-one{
+	background-color: #0a2345;
+	padding: 50px 0px 400px;
+}
+
+.box h4{
+color: #fff;
+	padding: 20px 0px 10px;
+}
+
+.box p{
+color:#66778e;
+font-size: 12px;
+}
+.box img{
+padding-top: 110px;
+}
+
+
+
+.mama-one{
+	position: relative;
+}
+.mama img{
+	position: absolute;
+	left: 60px;
+	top: -10px;
+}
+
+.last{
+	background-color: #061224;
+	padding: 50px 0px;
+}
+
+.last-one p{
+	color: #66778e;
+	text-align: center;
+	margin: 20px 0px 40px;
+}
+
+.last-one h6{
+	font-size: 13px;
+	display: block;
+	text-align: center;
+}
+.last-one img{
+	width: 30px;
+}
+
+.last-one h3{
+	color:  #66778e;
+	padding: 10px 0px 20px;
+	text-align:center;
+}
+
+.end-one{
+	background-color: #02050b;
+	padding: 50px 0px;
+}
+
+.end h2{
+	padding: 30px 0px;
+text-align: center;
+color: #fff;
+}
+
+.end p{
+	padding: 0px 50px;
+	text-align: center;
+color: #66778e;
+font-size: 14px;
+padding: 10px 0px 0px;
+}
+
+.end-two img{
+	width: 70%;
+	display: block;
+	margin: -70px auto 0px;
+
+}
+
+
+.btn-cstm-two{
+	background: transparent;
+	border: 2px solid #2a5da3;
+	padding: 5px 30px;
+	border-radius: 20px;
+	margin: -100px auto 30px;
+	display: block;
+	transition: 0.7s ease;
+}
+.nana{
+
+border-bottom: 1px solid #0a2345;
+display: block;
+margin-bottom: 30px;
+}
+.lala h6{
+	text-align: center;
+	color: #0a2345;
+
+}
+
+footer{
+	background-color: #02050b;
+	padding: 30px 0px;
+}
+
+
+
+
+
+
+
+@media (min-width: 320px) and (max-width:500px) { 
+
+
+
+.max-1 img{
+	width: 50%;
+	display: block;
+}
+
+
+.max-2 img{
+	width: 55%;
+display: block;
+	margin: 30px auto ;	
+}
+
+
+.child img{
+position: absolute;
+left: -10px;
+width: 70%;
+}
+
+
+.said h2{
+	text-align: center;
+	padding-top: 60%;
+}
+
+.said p{
+	text-align: center;
+	font-size: 12px;
+	
+}
+
+.btn-cstm-one{
+	margin: 0px auto;
+}
+
+
+.title-one img{
+	width: 15%;
+	display: block;
+	margin: 0 auto;
+}
+
+.title-one h4{
+	
+	text-align: center;
+}
+
+.title-one h6{
+
+	text-align: center;
+}
+
+
+.prand img{
+
+	width: 70%;
+
+	right: 70px;
+	top:320px;
+	
+
+}
+
+
+.box h4{
+text-align: center;
+	padding: 30px 0px 10px;
+
+}
+
+.box p{
+	text-align: center;
+color:#66778e;
+font-size: 12px;
+}
+.box img{
+	display: block;
+	margin: 0 auto;
+padding-top: 170px;
+}
+
+
+
+.mama img{
+	position: absolute;
+	left: 0px;
+	top: 20px;
+}
+
+
+
+.end h2{
+	font-size: 25px;
+}
+
+.end p{
+	padding: 0px 50px 40px;
+	text-align: center;
+}
+
+
+
+
+.btn-cstm-two{
+	margin: 20px auto 30px;
+	
+}
+
+
+.lala h6{
+font-size: 13px;
+
+}
+
+
+
+
+
+
+
+}
